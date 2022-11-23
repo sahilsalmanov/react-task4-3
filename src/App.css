@@ -1,0 +1,15 @@
+.subscribe-button {
+    border-radius: 2px;
+    height: 36px;
+    width: 150px;
+    text-transform: uppercase;
+}
+.subscribe-button_red {
+    background-color: rgb(204, 0, 0);
+    color: white;
+   }
+   
+   .subscribe-button_grey {
+    background-color: blue;
+    color: white;
+   }
